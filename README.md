@@ -1,3 +1,8 @@
+
+This is a Front End Application developed using HTML5, CSS3, Bootstrap4.5, Angular10.1.1, Typescript, JSON Web Server
+
+This Application Performs CRUD Operations based on Cafetaria, For developing this application i have made use of Angular9 and some of the concepts like Dependency Injection and Services which can be used in Multiple components rather than replicating the code in each individual component and made use of HTML5, CSS3 and Bootstrap for developing responsive web design and JSON web server for making Restful API calls.
+
 # AngularProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
