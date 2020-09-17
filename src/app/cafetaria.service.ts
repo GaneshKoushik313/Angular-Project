@@ -13,4 +13,19 @@ export class CafetariaService {
         return this.http.get(this.url)
     }
 
+    saveCafetariaData(data){
+        return this.http.post(this.url,data)
+    }
+
+    deleteCafetariaData(id){
+        return this.http.delete(`${this.url}/${id}`)
+    }
+
+    getCafetariaData(id){
+        return this.http.get(`${this.url}/${id}`)
+    }
+
+    editCafetaria(id,data){
+        return this.http.put(`${this.url}/${id}`,data)
+    }
 }

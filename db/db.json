@@ -1,47 +1,28 @@
 {
-    "restaurants": [
-        {
-            "id": 1,
-            "name": "1947 Restaurant",
-            "address": "Jayanagar",
-            "email": "1947@gmail.com"
-        },
-        {
-            "id": 2,
-            "name": "Roof Top Restaurant",
-            "address": "Jayanagar",
-            "email": "rooftop@gmail.com"
-        },
-        {
-            "id": 3,
-            "name": "Holiday Inning",
-            "address": "Yelahanka",
-            "email": "holiday_inning@gmail.com"
-        },
-        {
-            "id": 4,
-            "name": "Maiyas Restaurant",
-            "address": "Jayanagar",
-            "email": "maiyas@gmail.com"
-        },
-        {
-            "id": 5,
-            "name": "Bangalore Cafe Restaurant",
-            "address": "JP Nagar",
-            "email": "bangalore_cafe@gmail.com"
-        },
-        {
-            "id": 6,
-            "name": "Adigas",
-            "address": "Bannerghatta",
-            "email": "bannerghatta@gmail.com"
-        },
-        {
-            "id": 1,
-            "name": "A2B",
-            "address": "Konanakunte",
-            "email": "a2b@gmail.com"
-        }
-    ]
+  "restaurants": [
+    {
+      "name": "Roof Top Restaurant",
+      "address": "Jayanagar 3rd Block",
+      "email": "rooftop@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Holiday Innings",
+      "address": "Yelahanka",
+      "email": "holiday_inning@gmail.com",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Maiyas Restaurant",
+      "address": "Jayanagar",
+      "email": "maiyas@gmail.com"
+    },
+    {
+      "name": "Ganesh",
+      "address": "Begur",
+      "email": "ganesh@gmail.com",
+      "id": 5
+    }
+  ]
 }
-  
